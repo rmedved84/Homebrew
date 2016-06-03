@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Hop" max_length="40" name="x_20876_homebrew_hop" type="collection">
+        <element label="Alpha Acid" max_length="40" name="alpha_acid" type="integer"/>
+        <element label="Alpha Acid (high)" max_length="40" name="alpha_acid_high" type="integer"/>
+        <element label="Alpha Acid (low)" max_length="40" name="alpha_acid_low" type="integer"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Possible Substitution" max_length="4000" name="possible_substitution" type="glide_list"/>
+        <element label="Typical Beer Style" max_length="4000" name="typical_beer_style" type="glide_list"/>
+    </element>
+</database>

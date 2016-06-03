@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="possible_substitution" label="Possible Substitution" language="en" table="x_20876_homebrew_hop">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>possible_substitution</element>
+            <help/>
+            <hint/>
+            <label>Possible Substitution</label>
+            <language>en</language>
+            <name>x_20876_homebrew_hop</name>
+            <plural>Possible Substitutions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-06-02 15:54:04</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>faac3a490f739600d19ab36be1050e28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Possible Substitution</sys_name>
+            <sys_package display_value="Homebrew" source="x_20876_homebrew">faf53ec50f739600d19ab36be1050e92</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Homebrew">faf53ec50f739600d19ab36be1050e92</sys_scope>
+            <sys_update_name>sys_documentation_x_20876_homebrew_hop_possible_substitution_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-06-02 15:54:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
